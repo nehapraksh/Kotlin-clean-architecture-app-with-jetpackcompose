@@ -1,7 +1,6 @@
 # About this project
 ***A minimalistic Android application Built with Clean architecture and Jetpack component (Jetpack Compose, MVVM , HILT, Retrofit, and many more …).**
-
-## <br/><br/>Built With 🛠
+# <br/>Built With 🛠
 - [Kotlin](https://kotlinlang.org/) 
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) 
 - [Compose](https://developer.android.com/jetpack/compose) 
@@ -14,11 +13,9 @@
 - [Coil](https://github.com/chrisbanes/accompanist/blob/main/coil/README.md)
 - [Accompanist](https://google.github.io/accompanist/)
 - [Material Components for Android](https://github.com/material-components/material-components-android) 
-
-## <br/><br/> How to run this app
+# <br/> How to run this app
 - Clone this repository
 - Build the application
-
-## <br/><br/>Screenshort 📸
+# <br/>Screenshort 📸
 ![Screenshort](https://github.com/nehapraksh/BupaCodeChallenge/blob/master/screenshots/home_screen.jpg)
 ![Screenshort](https://github.com/nehapraksh/BupaCodeChallenge/blob/master/screenshots/detail_screen.jpg))
