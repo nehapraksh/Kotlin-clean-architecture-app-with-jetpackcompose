@@ -1,5 +1,5 @@
 # About this project
-***A minimalistic Android application Built with Clean architecture and Jetpack component (Jetpack Compose, MVVM , HILT, Retrofit, and many more …).**
+***A minimalistic Android application Built with Clean architecture and Jetpack component (Jetpack Compose, MVVM , HILT, Retrofit, and many more …). This project also has unit test for the viewmodel, repository and API service**
 # <br/>Built With 🛠
 - [Kotlin](https://kotlinlang.org/) 
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) 
